@@ -1,0 +1,6 @@
+url: https://github.com/lxfebd/AgentPilot/tree/master/dsh-bridge-next
+name: "lxfebd/AgentPilot#dsh-bridge-next"
+category: remote
+description:
+  en: 'Remote control for DeepSeek Harness: view DSH sessions from a phone, tablet or the web, continue conversations, answer input requests and approvals, and manage the local Connector.'
+  zh: 'DeepSeek Harness 远程控制：从手机、平板或 Web 查看 DSH 会话、继续对话、回复提问与审批，并管理本机 Connector。'
